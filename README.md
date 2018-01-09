@@ -2,8 +2,6 @@ A ListView that shows Android API levels, codenames and versions. The screenshot
 
 The screenshots (iPhoneX.jpg & Nexus5X.jpg) are also included in the repository.
 
-![alt text](https://github.com/mrcartier/AndroidAPILevels/blob/master/APILevels.jpg)
-
 ![alt text](https://github.com/mrcartier/AndroidAPILevels/blob/master/iPhoneX.jpg)
 
 ![alt text](https://github.com/mrcartier/AndroidAPILevels/blob/master/Nexus5X.jpg)
